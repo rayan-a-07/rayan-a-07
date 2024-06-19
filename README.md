@@ -63,6 +63,12 @@ I am a Cloud and DevOps Engineer passionate about automation, scalability, and i
 ## 🎧 My Spotify:
 [![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/31aplxcpij2gvpi3drzgd6y3gp2i)
 
+### Currently Playing on Spotify:
+[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=31aplxcpij2gvpi3drzgd6y3gp2i&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=31aplxcpij2gvpi3drzgd6y3gp2i&redirect=true)
+
+### My Spotify Playlists:
+[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=31aplxcpij2gvpi3drzgd6y3gp2i&playlist=0xakskwdsa7s01ejb&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=31aplxcpij2gvpi3drzgd6y3gp2i&redirect=true)
+
 ## 🚀 Recent Projects:
 - **Scalable Microservices Architecture on AWS with Kubernetes:**
   Designed and deployed a scalable microservices architecture optimized for high availability and resilience using Kubernetes on AWS.
