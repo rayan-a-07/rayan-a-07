@@ -1,7 +1,7 @@
 # Welcome to my profile
-# Hi there, I'm Rayan Adjaky 👋
+# Hi there, I'm Rayan Adjaky <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
-![Profile Banner](https://your-banner-image-url.com)
+![Profile Banner](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 
 I am a Cloud and DevOps Engineer passionate about automation, scalability, and infrastructure security. With a strong background in designing, deploying, and managing cloud environments, I strive to create robust and efficient solutions that meet the needs of modern businesses.
 
@@ -59,16 +59,6 @@ I am a Cloud and DevOps Engineer passionate about automation, scalability, and i
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
 </p>
 
-
-## 🎧 My Spotify:
-[![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/31aplxcpij2gvpi3drzgd6y3gp2i)
-
-### Currently Playing on Spotify:
-[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=31aplxcpij2gvpi3drzgd6y3gp2i&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=31aplxcpij2gvpi3drzgd6y3gp2i&redirect=true)
-
-### My Spotify Playlists:
-[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=31aplxcpij2gvpi3drzgd6y3gp2i&playlist=0xakskwdsa7s01ejb&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=31aplxcpij2gvpi3drzgd6y3gp2i&redirect=true)
-
 ## 🚀 Recent Projects:
 - **Scalable Microservices Architecture on AWS with Kubernetes:**
   Designed and deployed a scalable microservices architecture optimized for high availability and resilience using Kubernetes on AWS.
@@ -91,6 +81,3 @@ I am a Cloud and DevOps Engineer passionate about automation, scalability, and i
     <img src="https://img.shields.io/badge/Blog-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
   </a>
 </p>
-
-
-![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=yourusername.visitor-badge)
