@@ -1,4 +1,4 @@
-# RayanAdjakly
+# Welcome to my profile
 # Hi there, I'm Rayan Adjaky 👋
 
 ![Profile Banner](https://your-banner-image-url.com)
@@ -60,7 +60,3 @@ I am a Cloud and DevOps Engineer passionate about automation, scalability, and i
 </p>
 
 ![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=yourusername.visitor-badge)
-
----
-
-Feel free to replace the placeholder URLs (`your-banner-image-url.com`, `yourusername`, `yourspotifyusername`, etc.) with your actual links and customize it further to fit your style!
