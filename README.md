@@ -7,11 +7,13 @@ I am a Cloud and DevOps Engineer passionate about automation, scalability, and i
 
 ## 💡 About Me:
 <ul>
-  <li>I started learning game development with Unity/Unreal Engine in 9th grade and picked up C programming in 10th grade.</li>
-  <li>I enjoy watching anime and reading manga</li>
-  <li>I love reading and drawing</li>
-  <li>Bachelor's degree in Network and System Administration</li>
-  <li>Master's degree in Cloud Computing and Virtualization</li>
+  <li>Network and System Administration Bachelor's Degree</li>
+  <li>Virtualization and Cloud Computing Master's Degree</li>
+  <li>Tech Lover</li>
+  <li>Drawer</li>
+  <li>Reader</li>
+  <li>Otaku</li>
+  <li>Gamer</li>
 </ul>
 
 
