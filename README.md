@@ -1,6 +1,6 @@
 # Hi there, I'm Rayan Adjakly <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
-![Profile Banner](https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif)
+![Profile Banner](![image](https://github.com/rayan-a-07/rayan-a-07/assets/68562124/93f46cd8-7129-448d-985e-da0ded49377b))
 
 # Glad to see you here !
 I am a Cloud and DevOps Engineer passionate about automation, scalability, and infrastructure security. With a strong background in designing, deploying, and managing cloud environments, I strive to create robust and efficient solutions that meet the needs of modern businesses.
