@@ -20,7 +20,6 @@ I am a Cloud and DevOps Engineer passionate about automation, scalability, and i
 <p align="left">
   <a href="#"><img alt="AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"></a>
   <a href="#"><img alt="Azure" src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white"></a>
-  <a href="#"><img alt="GCP" src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"></a>
 </p>
 
 ### ⚙️ Infrastructure as Code (IaC)
@@ -28,7 +27,7 @@ I am a Cloud and DevOps Engineer passionate about automation, scalability, and i
   <a href="#"><img alt="Terraform" src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white"></a>
   <a href="#"><img alt="CloudFormation" src="https://img.shields.io/badge/CloudFormation-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white"></a>
   <a href="#"><img alt="Ansible" src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white"></a>
-    <a href="#"><img alt="Chef" src="https://img.shields.io/badge/Chef-70B603?style=for-the-badge&logo=chef&logoColor=white"></a>
+  <a href="#"><img alt="Vagrant" src="https://img.shields.io/badge/Vagrant-1563FF?style=for-the-badge&logo=vagrant&logoColor=white"></a>
 </p>
 
 ### 🔄 CI/CD
@@ -58,16 +57,6 @@ I am a Cloud and DevOps Engineer passionate about automation, scalability, and i
   <a href="#"><img alt="HTML5" src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"></a>
   <a href="#"><img alt="C" src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white"></a>
 </p>
-
-## 🚀 Recent Projects:
-- **Scalable Microservices Architecture on AWS with Kubernetes:**
-  Designed and deployed a scalable microservices architecture optimized for high availability and resilience using Kubernetes on AWS.
-  
-- **Automated and Secure CI/CD Pipeline for an E-commerce Application:**
-  Developed an automated CI/CD pipeline integrating tests, security scans, and continuous deployments, enhancing the efficiency and security of the development process.
-  
-- **Hybrid Cloud Infrastructure Migration with Azure:**
-  Led the migration of a traditional on-premises infrastructure to a hybrid cloud solution, reducing operational costs and increasing flexibility and scalability.
 
 ## 🔗 Connect with Me:
 <p align="left">
