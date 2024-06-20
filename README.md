@@ -2,7 +2,11 @@
 <!--
 ![Profile Banner](!image(https://private-user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTg4NDIyNDMsIm5iZiI6MTcxODg0MTk0MywicGF0aCI6Ii83NDAzODE5MC8yNDAzMDQ1ODYtZDQ4ODkzYmQtMDc1Ny00ODFjLThkN2UtYmEzZTE2M2ZlYWU3LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA2MjAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNjIwVDAwMDU0M1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTIyZjk3ZDI1NmMzNDgzMTc1NzM4MDEzNmY5MzcyZjFkOTlmMTdlMjFkNjgxNzQ4MDU5YjI0MmQyZGM0MjdlNDQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0._FPc4qdNkPp3m0BXTEARfeyaUDcF6zUkDCXYFgrnM94))
 -->
+<a href="https://www.linkedin.com/in/radjakly/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="radjakly" height="30" width="40" /></a> &nbsp;
+<a href="mailto:rayanadjakly@gmail.com" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/5141132/50740364-7ea80880-1217-11e9-8faf-2348e31beedd.png" alt="email" height="30" width="40" /></a>
+&nbsp;
 
+---
 I am a Cloud and DevOps Engineer passionate about automation, scalability, and infrastructure security. With a strong background in designing, deploying, and managing cloud environments, I strive to create robust and efficient solutions that meet the needs of modern businesses.
 
 ## 💡 About Me:
